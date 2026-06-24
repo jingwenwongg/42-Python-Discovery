@@ -25,3 +25,7 @@ The exercises focus on learning Python fundamentals through small problem-solvin
 - Sets
 - Command-line arguments
 - Problem solving
+
+## Certificate
+
+[![42KL Python Piscine Certificate](certificate/certificate.jpg)](certificate/42KL_Python_Discovery_Certificate.pdf)
